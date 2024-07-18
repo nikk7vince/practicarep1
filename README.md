@@ -1,2 +1,2 @@
-# practicarep1
-este repositorio tiene como objetivo el aprendizaje de crear un repositorio 
+# Detector de gas
+se detectara el gas y se enviara notificacion a telegram
